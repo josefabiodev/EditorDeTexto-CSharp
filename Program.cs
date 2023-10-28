@@ -60,6 +60,7 @@ static void Editar()
     Salvar(text);
 }
 
+// Salva o arquivo
 static void Salvar(string text)
 {
     Console.Clear();
